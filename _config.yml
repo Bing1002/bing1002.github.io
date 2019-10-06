@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bing's website"
+title                    : "Home of Bing"
 title_separator          : "-"
 name                     : &name "Bing Zha"
 description              : &description "PhD student @OSU"
