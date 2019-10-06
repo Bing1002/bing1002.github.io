@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Bing Zha"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD student @OSU"
   location         : "Columbus, Ohio, USA"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TZmXC_QAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            :  "zha.44@osu.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Bing_Zha2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Bing1002"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/TMaC_1002"
   vine             :
   weibo            :
   xing             :
