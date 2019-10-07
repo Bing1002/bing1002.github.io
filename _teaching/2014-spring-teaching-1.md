@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "CIVILEN 2050 Probabilistic Applications and Data Interpretation in Civil and Environmental Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "The Ohio State University"
+date: 2018
 location: "City, Country"
 ---
 
