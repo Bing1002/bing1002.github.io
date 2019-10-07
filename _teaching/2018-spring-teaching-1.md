@@ -1,5 +1,5 @@
 ---
-title: "CIVILEN 2050 Probabilistic Applications and Data Interpretation in Civil and Environmental Engineering"
+title: "CIVILEN 2050: Probabilistic Applications and Data Interpretation in Civil and Environmental Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-teaching-1
