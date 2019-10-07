@@ -10,7 +10,9 @@ redirect_from:
 
 Journals:
 ======
-
+1. [Some paper]   
+Bing Zha    
+2019
 
 
 Conferences:
