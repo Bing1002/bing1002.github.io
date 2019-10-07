@@ -1,7 +1,7 @@
 ---
-title: "Multi-class Structural Image Detection and Classification using CNN"
+title: "Multi-modal Semantic Labeling"
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-excerpt: Using deep neural networks to achieve localization task. 
+excerpt: Using deep neural networks to achieve pixel-wise image labeling task. 
 collection: portfolio
 ---
 
