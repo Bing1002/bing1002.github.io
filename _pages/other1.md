@@ -10,19 +10,17 @@ redirect_from:
 
 Journals:
 ======
-One
+
 
 
 Conferences:
 ======
-Two 
+1. [SEMANTIC LABELING OF STRUCTURAL ELEMENTS IN BUILDINGS BY FUSING RGB AND DEPTH IMAGES IN AN ENCODER-DECODER CNN FRAMEWORK](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-1/225/2018/isprs-archives-XLII-1-225-2018.pdf) 
 
 
 Book Chapters:
 ======
-Three
+1. [Multimodal Semantic Segmentation: Fusion of RGB and Depth Data in Convolutional Neural Networks](https://www.sciencedirect.com/science/article/pii/B9780128173589000093)
 
-
-Here is my [other1](https://drive.google.com/open?id=1AOV9Gmc7Roz109WHTPlTBw85WHkGKb8J). 
 
 
