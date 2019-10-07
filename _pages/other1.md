@@ -15,13 +15,10 @@ Journals:
 
 Conferences:
 ======
-<!-- background: #fff4e3 -->
-<!-- color: #2d2422 --> 
 1. [SEMANTIC LABELING OF STRUCTURAL ELEMENTS IN BUILDINGS BY FUSING RGB AND DEPTH IMAGES IN AN ENCODER-DECODER CNN FRAMEWORK](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-1/225/2018/isprs-archives-XLII-1-225-2018.pdf)  
 Dorota Iwaszczuk, Zoltan Koppanyi, Nima A. Gard, Bing Zha, Charles Toth, Alper Yilmaz     
 ISPRS TC I Mid-term Symposium, 2018     
-<!-- background: #fff4e3 -->
-<!-- color: #2d2422 --> 
+
 
 
 
