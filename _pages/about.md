@@ -16,5 +16,4 @@ Recent updates:
 ------
 - The first update 
 - The second update
-- The third update 
 
