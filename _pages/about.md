@@ -14,6 +14,6 @@ My main research is about computer vision and deep learning. Specifically, I am 
 
 Recent updates:
 ------
-- The first update 
+- In the process of taking PhD candidacy exam. 
 - The second update
 
