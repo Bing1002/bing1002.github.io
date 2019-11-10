@@ -67,6 +67,6 @@ Book Chapters:
 1. Chapter 3 - [Multimodal Semantic Segmentation: Fusion of RGB and Depth Data in Convolutional Neural Networks](https://www.sciencedirect.com/science/article/pii/B9780128173589000093)   
 [[slides]()], [[code]()]  
 Zoltan Koppanyi, Dorota Iwaszczuk, **Bing Zha**, Can Jozef Saul, Charles Toth, Alper Yilmaz  
-Multimodal Scene Understanding-Algorithms-Applications and Deep Learning, 2019
+Multimodal Scene Understanding - Algorithms, Applications and Deep Learning, 2019
 
 
