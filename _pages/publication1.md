@@ -15,23 +15,25 @@ Journals:
 2. [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)    
 [[slides]()], [[code]()]    
 Bing Zha    
-25th International Conference on Pattern Recognition, Milan Italy, 2020  
+2020  
+
 
 1. [Sensor Special Issue: Deep Learning Techniques for the Mapping and Localization of Mobile Robotics](https://www.mdpi.com/journal/sensors/special_issues/DLTMLMR)    
 [[slides]()], [[code]()]    
 Bing Zha        
-XXIV ISPRS Congress, Nice Frace, 2020    
-
+2020  
 
 
 
 Conferences:
 ======
 7. [Upcoming 2020 ICPR Conference](https://www.micc.unifi.it/icpr2020/)  
-[[slides]()], [[code]()]   
-
+[[slides]()], [[code]()]  
+25th International Conference on Pattern Recognition, Milan Italy, 2020    
+ 
 6. [Upcoming 2020 ISPRS Congress](http://www.isprs2020-nice.com/)  
 [[slides]()], [[code]()]    
+XXIV ISPRS Congress, Nice Frace, 2020     
 
 5. [Trajectory Mining for Localization using Recurrent Neural Network]()  
 [[slides]()], [[code]()]  
