@@ -43,7 +43,7 @@ ANS Winter Meeting, Washington DC, 2019
 12th International Workshop on Structural Health Monitoring, San Jose, USA, 2019
 
 1. [SEMANTIC LABELING OF STRUCTURAL ELEMENTS IN BUILDINGS BY FUSING RGB AND DEPTH IMAGES IN AN ENCODER-DECODER CNN FRAMEWORK](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-1/225/2018/isprs-archives-XLII-1-225-2018.pdf)  
-<font color=DarkGoldenRod>[[slides]()], [[code]()]</font>   
+[[<font color=DarkGoldenRod>slides</font>]()], [[code]()]  
 Dorota Iwaszczuk, Zoltan Koppanyi, Nima A. Gard, **Bing Zha**, Charles Toth, Alper Yilmaz  
 ISPRS TC I Mid-term Symposium, Karlsruhe Germany, 2018     
 
