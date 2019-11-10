@@ -29,36 +29,36 @@ Conferences:
 ======
 7. [Upcoming 2020 ICPR Conference](https://www.micc.unifi.it/icpr2020/)  
 [[slides]()], [[code]()]  
-25th International Conference on Pattern Recognition, Milan Italy, 2020    
+25th International Conference on Pattern Recognition. Milan, Italy. 2020    
  
 6. [Upcoming 2020 ISPRS Congress](http://www.isprs2020-nice.com/)  
-[[slides]()], [[code]()]    
-XXIV ISPRS Congress, Nice Frace, 2020     
+[[slides]()], [[code]()]     
+XXIV ISPRS Congress. Nice, Frace. 2020     
 
 5. [Trajectory Mining for Localization using Recurrent Neural Network]()  
 [[slides]()], [[code]()]  
 **B. Zha**, T. Koroglu and A. Yilmaz  
-CSCI Symposium on Big Data and Data Science, Las Vegas USA, 2019
+6th CSCI Symposium on Big Data and Data Science. Las Vegas, USA, 2019
 
 4. [Pedestrian Localization on Topological Maps with Neural Machine Translation Network]()  
 [[slides]()], [[code]()]  
 J. Wei, M. Koroglu, **B. Zha** and A. Yilmaz  
-IEEE Sensors Conference, Montreal Canada, 2019
+IEEE Sensors Conference. Montreal, Canada. 2019
 
 3. [Off-site Dose Prediction for Decision Making Using Recurrent Neural Networks]()  
 [[slides]()], [[code]()]  
 **B. Zha**, A. Yilmaz, T. Aldemir  
-ANS Winter Meeting, Washington DC, 2019
+ANS Winter Meeting and Nuclear Technology Expo. Washington DC, USA. 2019
 
 2. [Deep Convolutional Neural Networks For Classification In Comprehensive Structural Health Monitoring]()  
 [[slides]()], [[code]()]   
 **B. Zha**. M. Bai, H. Sezen and A. Yilmaz  
-12th International Workshop on Structural Health Monitoring, San Jose, USA, 2019
+12th International Workshop on Structural Health Monitoring. San Jose, USA. 2019
 
 1. [SEMANTIC LABELING OF STRUCTURAL ELEMENTS IN BUILDINGS BY FUSING RGB AND DEPTH IMAGES IN AN ENCODER-DECODER CNN FRAMEWORK](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-1/225/2018/isprs-archives-XLII-1-225-2018.pdf)  
 [[slides]()], [[code]()]    
 D. Iwaszczuk, Z. Koppanyi, N. A. Gard, **B. Zha**, C. Toth, A. Yilmaz    
-ISPRS TC I Mid-term Symposium, Karlsruhe Germany, 2018     
+ISPRS TC I Mid-term Symposium. Karlsruhe, Germany. 2018     
 
 
 
@@ -67,6 +67,6 @@ Book Chapters:
 1. Chapter 3 - [Multimodal Semantic Segmentation: Fusion of RGB and Depth Data in Convolutional Neural Networks](https://www.sciencedirect.com/science/article/pii/B9780128173589000093)   
 [[slides]()], [[code]()]  
 Zoltan Koppanyi, Dorota Iwaszczuk, **Bing Zha**, Can Jozef Saul, Charles Toth, Alper Yilmaz  
-Multimodal Scene Understanding - Algorithms, Applications and Deep Learning, 2019
+Multimodal Scene Understanding - Algorithms, Applications and Deep Learning. 2019
 
 
