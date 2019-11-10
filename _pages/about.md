@@ -14,5 +14,7 @@ My main research is about computer vision and deep learning. Specifically, I am 
 
 Recent updates:
 ------
-- In the process of taking PhD candidacy exam. 
+- Be about to 2019 ANS Winter Meeting in Washington DC. 
+- 2019.11.09 The paper **Trajectory Mining for Localization using Recurrent Neural Network** is accepted in 2019 CSCI-ISDB conference. 
+- 2019.11.06 Complete PhD candidacy exam. 
 
