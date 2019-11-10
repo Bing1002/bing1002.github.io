@@ -10,11 +10,11 @@ redirect_from:
 
 Journals:
 ======
-2. [Pattern Recognition]()  
+2. [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)    
 Bing Zha  
 2020  
 
-1. [Sensor Special Issue: Deep Learning Techniques for the Mapping and Localization of Mobile Robotics]()  
+1. [Sensor Special Issue: Deep Learning Techniques for the Mapping and Localization of Mobile Robotics](https://www.mdpi.com/journal/sensors/special_issues/DLTMLMR)    
 Bing Zha      
 2020  
 
