@@ -38,7 +38,7 @@ XXIV ISPRS Congress. Nice, Frace. 2020
 5. [Trajectory Mining for Localization using Recurrent Neural Network]()  
 [[slides]()], [[code]()]  
 **B. Zha**, T. Koroglu and A. Yilmaz  
-6th CSCI Symposium on Big Data and Data Science. Las Vegas, USA, 2019
+6th CSCI Symposium on Big Data and Data Science. Las Vegas, USA. 2019
 
 4. [Pedestrian Localization on Topological Maps with Neural Machine Translation Network]()  
 [[slides]()], [[code]()]  
