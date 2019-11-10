@@ -15,12 +15,12 @@ Journals:
 2. [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)    
 [[slides]()], [[code]()]    
 Bing Zha    
-2020  
+25th International Conference on Pattern Recognition, Milan Italy, 2020  
 
 1. [Sensor Special Issue: Deep Learning Techniques for the Mapping and Localization of Mobile Robotics](https://www.mdpi.com/journal/sensors/special_issues/DLTMLMR)    
 [[slides]()], [[code]()]    
 Bing Zha        
-2020  
+XXIV ISPRS Congress, Nice Frace, 2020    
 
 
 
