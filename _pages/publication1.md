@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Journals:
 ======
 2. [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)    
@@ -17,6 +19,7 @@ Bing Zha
 1. [Sensor Special Issue: Deep Learning Techniques for the Mapping and Localization of Mobile Robotics](https://www.mdpi.com/journal/sensors/special_issues/DLTMLMR)    
 Bing Zha      
 2020  
+
 
 
 
@@ -39,6 +42,7 @@ IEEE Sensors Conference, Montreal Canada, 2019
 ANS Winter Meeting, Washington DC, 2019
 
 2. [Deep Convolutional Neural Networks For Classification In Comprehensive Structural Health Monitoring]()  
+[[slides]()], [[code]()]   
 **B. Zha**. M. Bai, H. Sezen and A. Yilmaz
 12th International Workshop on Structural Health Monitoring, San Jose, USA, 2019
 
