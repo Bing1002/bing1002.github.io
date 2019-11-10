@@ -19,19 +19,19 @@ Conferences:
 ======
 6. 
 
-5. [Trajectory Mining for Localization using Recurrent Neural Network]()
+5. [Trajectory Mining for Localization using Recurrent Neural Network]()  
 **B. Zha**, T. Koroglu and A. Yilmaz
 CSCI Symposium on Big Data and Data Science, Las Vegas USA, 2019
 
-4. [Pedestrian Localization on Topological Maps with Neural Machine Translation Network]()
+4. [Pedestrian Localization on Topological Maps with Neural Machine Translation Network]()  
 J. Wei, M. Koroglu, **B. Zha** and A. Yilmaz
 IEEE Sensors Conference, Montreal Canada, 2019
 
-3. [Off-site Dose Prediction for Decision Making Using Recurrent Neural Networks]()
+3. [Off-site Dose Prediction for Decision Making Using Recurrent Neural Networks]()  
 **B. Zha**, A. Yilmaz, T. Aldemir
 ANS Winter Meeting, Washington DC, 2019
 
-2. [Deep Convolutional Neural Networks For Classification In Comprehensive Structural Health Monitoring]()
+2. [Deep Convolutional Neural Networks For Classification In Comprehensive Structural Health Monitoring]()  
 **B. Zha**. M. Bai, H. Sezen and A. Yilmaz
 12th International Workshop on Structural Health Monitoring, San Jose, USA, 2019
 
