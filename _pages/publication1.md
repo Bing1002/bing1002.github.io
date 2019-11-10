@@ -28,8 +28,10 @@ Bing Zha
 Conferences:
 ======
 7. [Upcoming 2020 ICPR Conference](https://www.micc.unifi.it/icpr2020/)  
+[[slides]()], [[code]()]  
 
 6. [Upcoming 2020 ISPRS Congress](http://www.isprs2020-nice.com/)  
+[[slides]()], [[code]()]  
 
 5. [Trajectory Mining for Localization using Recurrent Neural Network]()  
 [[slides]()], [[code]()]  
