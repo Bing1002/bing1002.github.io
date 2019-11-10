@@ -10,14 +10,21 @@ redirect_from:
 
 Journals:
 ======
-1. [Some paper]   
-Bing Zha    
-2019
+2. [Pattern Recognition]()  
+Bing Zha  
+2020  
+
+1. [Sensor Special Issue: Deep Learning Techniques for the Mapping and Localization of Mobile Robotics]()  
+Bing Zha      
+2020  
+
 
 
 Conferences:
 ======
-6. 
+7. Upcoming 2020 ICPR Conference 
+
+6. Upcoming 2020 ISPRS Congress
 
 5. [Trajectory Mining for Localization using Recurrent Neural Network]()  
 **B. Zha**, T. Koroglu and A. Yilmaz
