@@ -17,7 +17,7 @@ Meanwhile, I am also earning Graduate Minor in Statistics from [Department of St
 
 Recent updates:
 ------
-- Be about to 2019 ANS Winter Meeting in Washington DC. 
-- 2019.11.09： The paper **Trajectory Mining for Localization using Recurrent Neural Network** is accepted in 2019 CSCI-ISDB conference. 
-- 2019.11.06： Complete PhD candidacy exam. 
+- 11/18/2019, Be about to 2019 ANS Winter Meeting in Washington DC. 
+- 11/09/2019, The paper **Trajectory Mining for Localization using Recurrent Neural Network** is accepted in 2019 CSCI-ISDB conference. 
+- 11/06/2019, Complete PhD candidacy exam. 
 
