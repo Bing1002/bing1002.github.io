@@ -13,10 +13,12 @@ redirect_from:
 Journals:
 ======
 2. [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)    
+[[slides]()], [[code]()]  
 Bing Zha  
 2020  
 
 1. [Sensor Special Issue: Deep Learning Techniques for the Mapping and Localization of Mobile Robotics](https://www.mdpi.com/journal/sensors/special_issues/DLTMLMR)    
+[[slides]()], [[code]()]  
 Bing Zha      
 2020  
 
@@ -30,14 +32,17 @@ Conferences:
 6. [Upcoming 2020 ISPRS Congress](http://www.isprs2020-nice.com/)  
 
 5. [Trajectory Mining for Localization using Recurrent Neural Network]()  
+[[slides]()], [[code]()]  
 **B. Zha**, T. Koroglu and A. Yilmaz
 CSCI Symposium on Big Data and Data Science, Las Vegas USA, 2019
 
 4. [Pedestrian Localization on Topological Maps with Neural Machine Translation Network]()  
+[[slides]()], [[code]()]  
 J. Wei, M. Koroglu, **B. Zha** and A. Yilmaz
 IEEE Sensors Conference, Montreal Canada, 2019
 
 3. [Off-site Dose Prediction for Decision Making Using Recurrent Neural Networks]()  
+[[slides]()], [[code]()]  
 **B. Zha**, A. Yilmaz, T. Aldemir
 ANS Winter Meeting, Washington DC, 2019
 
@@ -56,6 +61,7 @@ ISPRS TC I Mid-term Symposium, Karlsruhe Germany, 2018
 Book Chapters:
 ======
 1. Chapter 3 - [Multimodal Semantic Segmentation: Fusion of RGB and Depth Data in Convolutional Neural Networks](https://www.sciencedirect.com/science/article/pii/B9780128173589000093)   
+[[slides]()], [[code]()]  
 Zoltan Koppanyi, Dorota Iwaszczuk, **Bing Zha**, Can Jozef Saul, Charles Toth, Alper Yilmaz  
 Multimodal Scene Understanding-Algorithms-Applications and Deep Learning, 2019
 
