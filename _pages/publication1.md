@@ -24,7 +24,7 @@ Conferences:
 ======
 7. [Upcoming 2020 ICPR Conference](https://www.micc.unifi.it/icpr2020/)  
 
-6. [Upcoming 2020 ISPRS Congress] (http://www.isprs2020-nice.com/)  
+6. [Upcoming 2020 ISPRS Congress](http://www.isprs2020-nice.com/)  
 
 5. [Trajectory Mining for Localization using Recurrent Neural Network]()  
 **B. Zha**, T. Koroglu and A. Yilmaz
