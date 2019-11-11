@@ -59,9 +59,11 @@
     {% endif %}
     -->
 	
-	{% if post.excerpt and post.collection == 'portfolio' %}
+	{% if post.collection == 'portfolio' %}
 	<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
 	{% endif %}
+	<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+	
 	
 	
 
