@@ -5,6 +5,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Here is my [CV](https://drive.google.com/drive/folders/0BxO9lNiRKP1Xdk5vbldNNTdGVTg). 
+Here is my [CV](https://drive.google.com/open?id=1SM6f4RKaZvce8PEVMm3i4CZKIQ1OLpek). 
 {% include base_path %}
 
