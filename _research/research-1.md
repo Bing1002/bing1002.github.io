@@ -1,7 +1,7 @@
 ---
 title: "Localization using Deep Topological Maps"
-excerpt: "<br/><img src='/images/500x300.png'>"
-# excerpt: Using deep neural networks to achieve localization task. 
+#excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: Using deep neural networks to achieve localization task. 
 collection: portfolio
 ---
 
