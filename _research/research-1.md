@@ -1,5 +1,5 @@
 ---
-title: "Localization using Deep Topological Maps"
+title: "Localization using Deep Topological Maps <br/><img src='/images/500x300.png'>"
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 excerpt: Using deep neural networks to achieve localization task. 
 collection: portfolio
