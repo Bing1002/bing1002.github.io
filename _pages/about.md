@@ -17,7 +17,7 @@ Meanwhile, I am also earning Graduate Minor in Statistics from [Department of St
 
 Recent updates:
 ------
-- 12/06/2019, Be heading to 2019 6th Annual Conf. on Computational Science & Computational Intelligence in Las Vegas, Nevada. 
+- 12/06/2019, 2019 6th Annual Conf. on Computational Science & Computational Intelligence in Las Vegas, Nevada. 
 - 11/18/2019, 2019 ANS Winter Meeting in Washington DC. 
 - 11/09/2019, The paper **Trajectory Mining for Localization using Recurrent Neural Network** is accepted in 2019 CSCI-ISDB conference. 
 - 11/06/2019, Complete PhD candidacy exam. 
