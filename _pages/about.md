@@ -21,5 +21,5 @@ Recent updates:
 - 11/18/2019, 2019 ANS Winter Meeting in Washington DC. 
 - 11/09/2019, The paper **Trajectory Mining for Localization using Recurrent Neural Network** is accepted in 2019 CSCI-ISDB conference. 
 - 11/06/2019, Completed PhD candidacy exam. 
-- 09/10/2019, 2019 12th International Workshop on Structural Health Monitoring in Stanford, California, USA
+- 09/10/2019, 2019 12th International Workshop on Structural Health Monitoring in Stanford, California.
 
