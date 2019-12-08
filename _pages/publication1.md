@@ -55,7 +55,6 @@ Z. Koppanyi, C. Toth, D. Iwaszczuk, **B. Zha** and A. Yilmaz
 ASPRS Annual Conference and International Lidar Mapping Forum. Denver, USA. 2019
 
 
-
 2. [Deep Convolutional Neural Networks For Classification In Comprehensive Structural Health Monitoring]()  
 [[slides]()], [[code]()]   
 **B. Zha**. M. Bai, H. Sezen and A. Yilmaz  
