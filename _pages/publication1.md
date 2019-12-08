@@ -27,28 +27,34 @@ Bing Zha
 
 Conferences:
 ======
-7. [Upcoming 2020 ICPR Conference](https://www.micc.unifi.it/icpr2020/)  
+8. [Upcoming 2020 ICPR Conference](https://www.micc.unifi.it/icpr2020/)  
 [[slides]()], [[code]()]  
 25th International Conference on Pattern Recognition. Milan, Italy. 2020    
  
-6. [Upcoming 2020 ISPRS Congress](http://www.isprs2020-nice.com/)  
+7. [Upcoming 2020 ISPRS Congress](http://www.isprs2020-nice.com/)  
 [[slides]()], [[code]()]     
 XXIV ISPRS Congress. Nice, Frace. 2020     
 
-5. [Trajectory Mining for Localization using Recurrent Neural Network]()  
+6. [Trajectory Mining for Localization using Recurrent Neural Network]()  
 [[slides]()], [[code]()]  
 **B. Zha**, T. Koroglu and A. Yilmaz  
 6th CSCI Symposium on Big Data and Data Science. Las Vegas, USA. 2019
 
-4. [Pedestrian Localization on Topological Maps with Neural Machine Translation Network]()  
+5. [Pedestrian Localization on Topological Maps with Neural Machine Translation Network]()  
 [[slides]()], [[code]()]  
 J. Wei, M. Koroglu, **B. Zha** and A. Yilmaz  
 IEEE Sensors Conference. Montreal, Canada. 2019
 
-3. [Off-site Dose Prediction for Decision Making Using Recurrent Neural Networks]()  
+4. [Off-site Dose Prediction for Decision Making Using Recurrent Neural Networks]()  
 [[slides]()], [[code]()]  
 **B. Zha**, A. Yilmaz, T. Aldemir  
 ANS Winter Meeting and Nuclear Technology Expo. Washington DC, USA. 2019
+
+3. [Investigation on the SegNet Deep Neural Network for Aerial Image Segmentation and Classification]()     
+Z. Koppanyi, C. Toth, D. Iwaszczuk, **B. Zha** and A. Yilmaz  
+ASPRS Annual Conference and International Lidar Mapping Forum. Denver, USA. 2019
+
+
 
 2. [Deep Convolutional Neural Networks For Classification In Comprehensive Structural Health Monitoring]()  
 [[slides]()], [[code]()]   
