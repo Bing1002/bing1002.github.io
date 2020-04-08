@@ -32,7 +32,7 @@ Conferences:
 25th International Conference on Pattern Recognition. Milan, Italy. 2020    
  
 7. [Learning Maps for Object Localization using Visual-Inertial Odometry]()  
-[[slides]()], [[code]()]
+[[slides]()], [[code]()]  
 **B. Zha** and A. Yilmaz  
 XXIV ISPRS Congress. Nice, Frace. 2020     
 
