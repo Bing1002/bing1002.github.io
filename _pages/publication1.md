@@ -31,8 +31,9 @@ Conferences:
 [[slides]()], [[code]()]  
 25th International Conference on Pattern Recognition. Milan, Italy. 2020    
  
-7. [Upcoming 2020 ISPRS Congress](http://www.isprs2020-nice.com/)  
-[[slides]()], [[code]()]     
+7. [Learning Maps for Object Localization using Visual-Inertial Odometry]()  
+[[slides]()], [[code]()]
+**B. Zha** and A. Yilmaz
 XXIV ISPRS Congress. Nice, Frace. 2020     
 
 6. [Trajectory Mining for Localization using Recurrent Neural Network]()  
