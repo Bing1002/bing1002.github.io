@@ -29,12 +29,13 @@ Conferences:
 ======
 8. [Upcoming 2020 ICPR Conference](https://www.micc.unifi.it/icpr2020/)  
 [[slides]()], [[code]()]  
-25th International Conference on Pattern Recognition. Milan, Italy. 2020    
+**B. Zha** and A. Yilmaz   
+25th International Conference on Pattern Recognition. Milan, Italy. 2021    
  
 7. [Learning Maps for Object Localization using Visual-Inertial Odometry]()  
 [[slides]()], [[code]()]  
 **B. Zha** and A. Yilmaz  
-XXIV ISPRS Congress. Nice, Frace. 2020     
+XXIV ISPRS Congress. Nice, Frace. 2021     
 
 6. [Trajectory Mining for Localization using Recurrent Neural Network]()  
 [[slides]()], [[code]()]  
