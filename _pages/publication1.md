@@ -33,7 +33,7 @@ Conferences:
  
 7. [Learning Maps for Object Localization using Visual-Inertial Odometry]()  
 [[slides]()], [[code]()]
-**B. Zha** and A. Yilmaz
+**B. Zha** and A. Yilmaz  
 XXIV ISPRS Congress. Nice, Frace. 2020     
 
 6. [Trajectory Mining for Localization using Recurrent Neural Network]()  
