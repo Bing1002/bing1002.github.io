@@ -15,7 +15,7 @@ Journals:
 2. [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)  
 <!---
 [[slides]()], [[code]()]   
--->  
+-->
 Bing Zha    
 2020  
 
