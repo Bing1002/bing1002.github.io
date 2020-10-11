@@ -23,12 +23,12 @@ Bing Zha
 
 Conferences:
 ======
-8. [Upcoming 2020 ICPR Conference](https://www.micc.unifi.it/icpr2020/)  
+8. [Temporally Consistent Geo-Localization through Map Learning](https://www.micc.unifi.it/icpr2020/)  
 <!---
 [[slides]()], [[code]()]   
 -->
 **B. Zha** and A. Yilmaz   
-25th International Conference on Pattern Recognition. Milan, Italy. 2021    
+25th International Conference on Pattern Recognition. Milan, Italy. 2020   
  
 7. [Learning Maps for Object Localization using Visual-Inertial Odometry]()  
 <!---
