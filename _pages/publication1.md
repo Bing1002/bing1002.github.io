@@ -12,7 +12,7 @@ redirect_from:
 
 Journals:
 ======
-1. [Upcoming journal](https://www.journals.elsevier.com/pattern-recognition)  
+2. [Upcoming journal](https://www.journals.elsevier.com/pattern-recognition)  
 <!---
 [[slides]()], [[code]()]   
 -->
