@@ -12,6 +12,13 @@ redirect_from:
 
 Journals:
 ======
+1. [Upcoming journal](https://www.journals.elsevier.com/pattern-recognition)  
+<!---
+[[slides]()], [[code]()]   
+-->
+Bing Zha    
+2021 
+
 1. [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)  
 <!---
 [[slides]()], [[code]()]   
