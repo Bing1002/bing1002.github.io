@@ -16,14 +16,14 @@ Journals:
 <!---
 [[slides]()], [[code]()]   
 -->
-Bing Zha    
+Bing Zha, Alper Yilmaz    
 2021 
 
 1. [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)  
 <!---
 [[slides]()], [[code]()]   
 -->
-Bing Zha    
+Bing Zha, Alper Yilmaz   
 2020  
 
 
