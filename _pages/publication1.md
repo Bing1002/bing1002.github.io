@@ -44,7 +44,7 @@ International Conference on Computer Vision (ICCV). Montreal, Canada. 2021
 **B. Zha** and A. Yilmaz   
 Winter Conference on Applications of Computer Vision (WACV). Hawaii, USA. 2021    
 
-8. [Temporally Consistent Geo-Localization through Map Learning](https://www.micc.unifi.it/icpr2020/)  
+8. [Map-Based Temporally Consistent Geolocalization through Learning Motion Trajectories](https://www.micc.unifi.it/icpr2020/)  
 <!---
 [[slides]()], [[code]()]   
 -->
