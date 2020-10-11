@@ -23,6 +23,14 @@ Bing Zha
 
 Conferences:
 ======
+
+9. [Upcoming WACV 2021](https://www.micc.unifi.it/icpr2020/)  
+<!---
+[[slides]()], [[code]()]   
+-->
+**B. Zha** and A. Yilmaz   
+Winter Conference on Applications of Computer Vision (WACV). Hawaii, USA. 2021    
+
 8. [Temporally Consistent Geo-Localization through Map Learning](https://www.micc.unifi.it/icpr2020/)  
 <!---
 [[slides]()], [[code]()]   
