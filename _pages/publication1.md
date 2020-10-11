@@ -19,7 +19,7 @@ Journals:
 Bing Zha, Alper Yilmaz    
 2021 
 
-1. [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)  
+1. [Upcoming Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition)  
 <!---
 [[slides]()], [[code]()]   
 -->
