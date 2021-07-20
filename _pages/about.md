@@ -17,6 +17,7 @@ Meanwhile, I am also earning Graduate Minor in Statistics from [Department of St
 
 Recent updates:
 ------
+- 08/16/2021, PhD defense (temporarily) 
 - 2021, The paper **"Subgraph Learning for Topological Localization with Graph Neural Networks"** is submitted.
 - 2021, The paper **"Geolocalization on Maps by Fusing Motion and Visual Data through Attention Mechanisms"** is submitted.
 - 10/11/2020, The paper **"Map-Based Temporally Consistent Geolocalization through Learning Motion Trajectories"** is accepted in 2020 ICPR conference.
