@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Bing Zha (Chinese name: "查 冰") and I am currently a PhD student in the [Photogrammetric Computer Vision Lab](https://pcvlab.engineering.osu.edu/) in the [Department of Civil, Environmental and Geodetic Engineering](https://ceg.osu.edu/) at [The Ohio State University](https://www.osu.edu/), advised by [Prof. Alper Yilmaz](https://ceg.osu.edu/people/yilmaz.15).
+My name is Bing Zha (Chinese name: "查 冰") and I am currently working at Motorola Solutions (MSI) as a Research Scientist (Computer Vision). I was a PhD student in the [Photogrammetric Computer Vision Lab](https://pcvlab.engineering.osu.edu/) in the [Department of Civil, Environmental and Geodetic Engineering](https://ceg.osu.edu/) at [The Ohio State University](https://www.osu.edu/), advised by [Prof. Alper Yilmaz](https://ceg.osu.edu/people/yilmaz.15) and obtained PhD degree in 2021.
 
-My main research is about computer vision and deep learning. Specifically, I am now working on map learning, localization and navigation problem using deep neural networks.   
+My research area is related to computer vision and deep learning. Specifically, I was working on map learning, localization and navigation problem using deep neural networks.   
 
 Meanwhile, I am also earning Graduate Minor in Statistics from [Department of Statistics](https://stat.osu.edu/) and Graduate Minor in Computer Science (Artificial Intelligence Track) from [Department of Computer Science and Engineering](https://cse.osu.edu/). 
 
