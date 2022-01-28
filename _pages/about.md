@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Bing Zha (Chinese name: "查 冰") and I am currently working at Motorola Solutions (MSI) as a Research Scientist (Computer Vision). I was a PhD student in the [Photogrammetric Computer Vision Lab](https://pcvlab.engineering.osu.edu/) in the [Department of Civil, Environmental and Geodetic Engineering](https://ceg.osu.edu/) at [The Ohio State University](https://www.osu.edu/), advised by [Prof. Alper Yilmaz](https://ceg.osu.edu/people/yilmaz.15) and obtained PhD degree in 2021.
+My name is Bing Zha (Chinese name: "查 冰") and I am currently working at Motorola Solutions (MSI) Machine Perception team led by [Yin Wang](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=XNQkzrgAAAAJ) as a Research Scientist (Computer Vision). I was a PhD student in the [Photogrammetric Computer Vision Lab](https://pcvlab.engineering.osu.edu/) in the [Department of Civil, Environmental and Geodetic Engineering](https://ceg.osu.edu/) at [The Ohio State University](https://www.osu.edu/), advised by [Prof. Alper Yilmaz](https://ceg.osu.edu/people/yilmaz.15) and obtained PhD degree in 2021.
 
 My research area is related to computer vision and deep learning. Specifically, I was working on map learning, localization and navigation problem using deep neural networks.   
 
