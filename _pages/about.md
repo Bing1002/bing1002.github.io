@@ -17,6 +17,7 @@ Meanwhile, I am also earning Graduate Minor in Statistics from [Department of St
 
 Recent updates:
 ------
+- 09/30/2021, Join Motorola Solutions (MSI) as a Research Scientist (Computer Vision)
 - 08/16/2021, Finished PhD defense.  
 - 2021, The paper **"Subgraph Learning for Topological Localization with Graph Neural Networks"** is submitted.
 - 2021, The paper **"Geolocalization on Maps by Fusing Motion and Visual Data through Attention Mechanisms"** is submitted.
