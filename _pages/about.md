@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Bing Zha (Chinese name: "查 冰") and I am currently working at Motorola Solutions (MSI) CTO Artificial Intelligence Team as a Research Scientist (Computer Vision). I was a PhD student in the [Photogrammetric Computer Vision Lab](https://u.osu.edu/pcvlab/) in the [Department of Civil, Environmental and Geodetic Engineering](https://ceg.osu.edu/) at [The Ohio State University](https://www.osu.edu/), advised by [Prof. Alper Yilmaz](https://ceg.osu.edu/people/yilmaz.15) and obtained PhD degree in 2021.
+My name is Bing Zha (Chinese name: "查 冰") and I am currently working at Motorola Solutions (MSI) CTO Artificial Intelligence Team as a Research Scientist (Computer Vision). I was a PhD student in the [Photogrammetric Computer Vision Lab](https://u.osu.edu/pcvlab/) in the [Department of Civil, Environmental and Geodetic Engineering](https://ceg.osu.edu/) at [The Ohio State University](https://www.osu.edu/), advised by [Prof. Alper Yilmaz](https://ceg.osu.edu/people/yilmaz.15) and obtained PhD degree in 2021. Meanwhile, I earned Graduate Minor in Computer Science (Artificial Intelligence Track) from [Department of Computer Science and Engineering](https://cse.osu.edu/). 
 
-My research area is related to computer vision and deep learning, specifically focosing on geolocalization and 3d reconstruction. 
+My research area was related to computer vision and deep learning, specifically focosing on geolocalization and 3d reconstruction. Currently, I am working on object detection and tracking for video surveillance task. 
 
-Meanwhile, I earned Graduate Minor in Computer Science (Artificial Intelligence Track) from [Department of Computer Science and Engineering](https://cse.osu.edu/). 
+
 
 
 Recent updates:
