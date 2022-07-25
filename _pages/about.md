@@ -17,10 +17,10 @@ My research area was related to computer vision and deep learning, specifically 
 
 Recent updates:
 ------
+- 2021, The paper **"Subgraph Learning for Topological Localization with Graph Neural Networks"** is in review.
 - 09/30/2021, Join Motorola Solutions (MSI) as a Research Scientist (Computer Vision)
 - 08/16/2021, Finished PhD defense.  
-- 2021, The paper **"Subgraph Learning for Topological Localization with Graph Neural Networks"** is submitted.
-- 2021, The paper **"Geolocalization on Maps by Fusing Motion and Visual Data through Attention Mechanisms"** is submitted.
+<!-- - 2021, The paper **"Geolocalization on Maps by Fusing Motion and Visual Data through Attention Mechanisms"** is submitted. -->
 - 10/11/2020, The paper **"Map-Based Temporally Consistent Geolocalization through Learning Motion Trajectories"** is accepted in 2020 ICPR conference.
 - 03/30/2020, The paper **"Learning Maps for Object Localization using Visual-Inertial Odometry"** is accepted in 2020 XXIV ISPRS Congress
 - 12/06/2019, 2019 6th Annual Conf. on Computational Science & Computational Intelligence in Las Vegas, Nevada. 
