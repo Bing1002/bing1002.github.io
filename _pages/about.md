@@ -17,7 +17,7 @@ My research area was related to computer vision and deep learning, specifically 
 
 Recent updates:
 ------
-- 05/25/2023, The paper **"Subgraph Learning for Topological Localization with Graph Neural Networks"** is is accepted in Sensor.
+- 05/25/2023, The paper **"Subgraph Learning for Topological Localization with Graph Neural Networks"** is is accepted in *Sensor*.
 - 09/30/2021, Join Motorola Solutions (MSI) as a Research Scientist (CV/ML)
 - 08/16/2021, Finished PhD defense.  
 <!-- - 2021, The paper **"Geolocalization on Maps by Fusing Motion and Visual Data through Attention Mechanisms"** is submitted. -->
