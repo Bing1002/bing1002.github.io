@@ -10,15 +10,15 @@ redirect_from:
 
 My name is Bing Zha (Chinese name: "查 冰") and I am currently working at Motorola Solutions (MSI) CTO Artificial Intelligence Team as a Research Scientist (Computer Vision). I was a PhD student in the [Photogrammetric Computer Vision Lab](https://u.osu.edu/pcvlab/) in the [Department of Civil, Environmental and Geodetic Engineering](https://ceg.osu.edu/) at [The Ohio State University](https://www.osu.edu/), advised by [Prof. Alper Yilmaz](https://ceg.osu.edu/people/yilmaz.15) and obtained PhD degree in 2021. Meanwhile, I earned Graduate Minor in Computer Science (Artificial Intelligence Track) from [Department of Computer Science and Engineering](https://cse.osu.edu/). 
 
-My research area was related to computer vision and deep learning, specifically focosing on geolocalization and 3d reconstruction. Currently, I am working on object detection and tracking for video surveillance task. 
+My research area was related to computer vision and deep learning, specifically focosing on geolocalization and 3d reconstruction. Currently, I am working on video analytics for surveillance task including object detection/tracking and pose estimation. 
 
 
 
 
 Recent updates:
 ------
-- 2022, The paper **"Subgraph Learning for Topological Localization with Graph Neural Networks"** is in review.
-- 09/30/2021, Join Motorola Solutions (MSI) as a Research Scientist (Computer Vision)
+- 05/25/2023, The paper **"Subgraph Learning for Topological Localization with Graph Neural Networks"** is is accepted in Sensor.
+- 09/30/2021, Join Motorola Solutions (MSI) as a Research Scientist (CV/ML)
 - 08/16/2021, Finished PhD defense.  
 <!-- - 2021, The paper **"Geolocalization on Maps by Fusing Motion and Visual Data through Attention Mechanisms"** is submitted. -->
 - 10/11/2020, The paper **"Map-Based Temporally Consistent Geolocalization through Learning Motion Trajectories"** is accepted in 2020 ICPR conference.
